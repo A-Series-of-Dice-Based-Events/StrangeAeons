@@ -53,6 +53,8 @@ https://github.com/A-Series-of-Dice-Based-Events/StrangeAeons/blob/master/priest
 I didn't bother with complete stats for Bokrug. Relevant features: 
 Bokrug arrives 300 ft. away. 
 Bokrug moves 60 ft. per round. 
+Bokrug busts out the pimp hand and smacks fools with a +30 to hit for 2d8+20 damage. 
+Bokrug uses control weather to trap the PCs per the adventure path. 
 Bokrug has an unspeakable presence aura of 300 ft. Every turn within the unspeakable presence (300 ft) DC 30 Will save or Stupified, Fleeing, Frightened, or Confused (At random or GM's choice). 
 (Alternatively use sanity rules: Every turn within the unspeakable presence Aura, Insanity 1 increase. Insanity 2 = lesser madness, insanity 4 = greater madness, use these rules for inspiration on what madnesses might mean. https://www.d20pfsrd.com/gamemastering/other-rules/sanity/. Insanity can be reduced by counteract through restoration spell (spell class vs. Character's level DC) or 1 week of rest (will vs. Character's Level DC) (Crit - reduce by 2/ Success reduce by 1/ fail no reduction / Crit fail increase by 1). When the Insanity falls below the threshold the madness becomes dormant). 
 
