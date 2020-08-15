@@ -1,4 +1,4 @@
-# Title of AP
+# Deams of the Yellow King
 
 [A Series of Dice-Based Events Discord](https://discord.gg/UQ8UD3H)
 
