@@ -84,31 +84,18 @@ Notes: Party is assumed to be level 7 or 8 in this chapter and Chapter 1
 
 ## Last Night on Sarnath
 
-### L1. The Feasting Hall
-Level 7 (90 xp moderate threat)
-3x Ib Shades
-
-Level 8 (80 xp moderate threat)
-4x Ib Shades
+### L1. The Feasting Hall (Level 7 Low Threat (60 XP) / Level 8 Trivial Threat (40 xp))
+2x Ib Shades
 
 https://github.com/A-Series-of-Dice-Based-Events/StrangeAeons/blob/master/ib_shade.pdf
 
 https://github.com/A-Series-of-Dice-Based-Events/StrangeAeons/blob/master/ib_shade.png
 
-### L2. The Mist
-Level 7 (90 xp moderate threat)
+### L2. The Mist (Level 7 Moderate Threat (90 XP) / Level 8 Low Threat (60 xp))
 3 [Will o' Wisps] (https://2e.aonprd.com/Monsters.aspx?ID=414)
 
-Level 8 (80 xp moderate threat)
-4 [Will o' Wisps] (https://2e.aonprd.com/Monsters.aspx?ID=414)
-
-### L3. Idol Bearers
-Level 7 (110 xp Severe threat)
+### L3. Idol Bearers (Level 7 Severe Threat (110 XP) / Level 8 Moderate Threat (80 xp))
 1x Ib Shade
-1x Priest of Bokrug
-
-Level 8 (80 xp moderate threat)
-3x Ib Shades
 1x Priest of Bokrug
 
 https://github.com/A-Series-of-Dice-Based-Events/StrangeAeons/blob/master/priest_of_bokrug.pdf
