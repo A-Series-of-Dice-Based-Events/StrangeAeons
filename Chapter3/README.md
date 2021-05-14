@@ -14,8 +14,11 @@ Please do not submit PDF files or entire texts of the AP. Only submit modificati
 ## Dreamlands Excursion Ritual
 
 DREAMLANDS EXCURSION
+
 RITUAL 4
+
 RARE CONJURATION CREATION OCCULT 
+
 Cast 1 hour; verbal, somatic, focus (a miniature staircase made of polished horn and ivory worth 875 gp)
 
 Primary Check Occultism (expert) or Arcana (expert) DC 29; Secondary Checks Occultism or Arcana
