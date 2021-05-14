@@ -11,6 +11,36 @@ The README.md files can have simple breakdowns of modified DCs for various tasks
 http://monster.pf2.tools/ uses JSON files that can be easily imported/exported. This repository ideally will hold those files publicly sourced and created, as well as other tools/files. 
 Please do not submit PDF files or entire texts of the AP. Only submit modifications for the DC and NPCs/Monsters. Please also include a page number/map section label so GMs can cross-reference.
 
+## Dreamlands Excursion Ritual
+
+DREAMLANDS EXCURSION
+RITUAL 4
+RARE CONJURATION CREATION OCCULT 
+Cast 1 hour; verbal, somatic, focus (a miniature staircase made of polished horn and ivory worth 875 gp)
+
+Primary Check Occultism (expert) or Arcana (expert) DC 29; Secondary Checks Occultism or Arcana
+
+Duration instantaneous; Requirements performed at night on the Material Plane
+
+The casters begin chanting the incantation while they pass around the miniature staircase, feeling each of its 70 steps.
+With each passing, the staircase appears a bit heavier and a bit larger. The primary caster drops the miniature staircase on the ground as the incantation is completed.
+Success opens a portal where the staircase lands, revealing steps leading downward from wherever the ritual was performed (even if performed upon a rooftop or the deck of a ship). The casters are immediately pulled down in the formed staircase descending it; the Material Plane bodies of the casters are put to sleep and their psyches are thrust into the Dreamlands. Before the completion of the ritual, the primary caster can utter a specific string of words that allows the portal to open in a specific area of the Dreamlands. Otherwise, the portal opens at the Forsaken Caravanserai. In the Dreamlands, the casters manifest lucid bodies identical to their Material Plane bodies.
+
+Success The casters manifest lucid bodies in the dreamland, that are identical to their Material Plane bodies.
+
+Failure As Success, but an [animate dream](https://2e.aonprd.com/Monsters.aspx?ID=4546) ambushes them upon arrival.
+
+Critical Failure As failure, but the casters are thrust into the Dreamlands violently, taking 2d6 mental damage.
+
+
+Waking from the dreamlands takes 3 actions with the concentrate trait, the dreamer needs to make a Will or Fortitude Save (DC 29).
+
+Success The dreamer wakes up in their body.
+
+Failure As Success, but the dreamer gains the stupified 1 condition.
+
+Critical The dreamer does not wake up and can attempt to wake again next turn.
+
 ## Part 1 - The Sellen Passage
 
 ## D. Lake Kallas
