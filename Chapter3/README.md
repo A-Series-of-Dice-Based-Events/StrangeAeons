@@ -405,7 +405,7 @@ Replace Fiend, Rakahasa with Human, Dream
 ### Speaking with Alhazerad (Severe Threat)
 Use 4x [Animate Dream](https://2e.aonprd.com/Monsters.aspx?ID=546) or 4x copies of PCs at level 8
 
-Replace attribute increase with a bonus archetype using the [free archetype optional rule](https://2e.aonprd.com/Rules.aspx?ID=1333)![image](https://user-images.githubusercontent.com/11428782/118460957-231bad00-b738-11eb-82aa-95321732879b.png)
+Replace attribute increase with a bonus archetype using the [free archetype optional rule](https://2e.aonprd.com/Rules.aspx?ID=1333)
 . Have the PCs draw from a deck of cards or choose items, or pick archetypes that synergize with those characters: 
 
 [Acrobat](https://2e.aonprd.com/Archetypes.aspx?ID=45)
