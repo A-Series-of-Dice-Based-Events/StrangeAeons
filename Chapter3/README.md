@@ -405,24 +405,38 @@ Replace Fiend, Rakahasa with Human, Dream
 ### Speaking with Alhazerad (Severe Threat)
 Use 4x [Animate Dream](https://2e.aonprd.com/Monsters.aspx?ID=546) or 4x copies of PCs at level 8
 
-Replace attribute increase with bonus archetype. Have the PCs draw from a deck of cards or choose items, or pick archetypes that synergize with those characters: 
+Replace attribute increase with a bonus archetype using the [free archetype optional rule](https://2e.aonprd.com/Rules.aspx?ID=1333)![image](https://user-images.githubusercontent.com/11428782/118460957-231bad00-b738-11eb-82aa-95321732879b.png)
+. Have the PCs draw from a deck of cards or choose items, or pick archetypes that synergize with those characters: 
 
 [Acrobat](https://2e.aonprd.com/Archetypes.aspx?ID=45)
+
 [Bastion](https://2e.aonprd.com/Archetypes.aspx?ID=49)
+
 [Beast Master](https://2e.aonprd.com/Archetypes.aspx?ID=50)
+
 [Dandy](https://2e.aonprd.com/Archetypes.aspx?ID=55)
+
 [Dragon Disciple](https://2e.aonprd.com/Archetypes.aspx?ID=56)
+
 [Dual Weapon Warrior](https://2e.aonprd.com/Archetypes.aspx?ID=57)
+
 [Eldritch Archer](https://2e.aonprd.com/Archetypes.aspx?ID=59)
+
 [Herbalist](https://2e.aonprd.com/Archetypes.aspx?ID=62)
+
 [Magic Warrior](https://2e.aonprd.com/Archetypes.aspx?ID=19)
+
 [Mauler](https://2e.aonprd.com/Archetypes.aspx?ID=68)
+
 [Medic](https://2e.aonprd.com/Archetypes.aspx?ID=69)
+
 [Ritualist](https://2e.aonprd.com/Archetypes.aspx?ID=72)
+
 [Runescarred](https://2e.aonprd.com/Archetypes.aspx?ID=21)
+
 [Shadowdancer](https://2e.aonprd.com/Archetypes.aspx?ID=77)
+
 [Weapon Improviser](https://2e.aonprd.com/Archetypes.aspx?ID=82)
-![image](https://user-images.githubusercontent.com/11428782/118460382-9c66d000-b737-11eb-87f0-7984e5700c07.png)
 
 
 
